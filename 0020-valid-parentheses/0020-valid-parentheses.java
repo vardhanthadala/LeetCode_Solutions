@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 class Solution {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
@@ -25,10 +23,5 @@ class Solution {
         }
 
         return stack.isEmpty();
-    }
-
-    public static void main(String[] args) {
-        String s = "()";
-        System.out.println(isValid(s)); // Expected output: true
     }
 }
