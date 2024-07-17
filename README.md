@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0075-sort-colors) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
