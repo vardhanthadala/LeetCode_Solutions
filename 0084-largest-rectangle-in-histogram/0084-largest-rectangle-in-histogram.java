@@ -46,10 +46,4 @@ class Solution {
         
         return maxArea;
     }
-    
-    public static void main(String args[]) {
-        int heights[] = {2, 1, 5, 6, 2, 3};  // heights in the histogram
-        int maxArea = largestRectangleArea(heights);
-        System.out.println("Maximum area: " + maxArea);
-    }
 }
