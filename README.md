@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
