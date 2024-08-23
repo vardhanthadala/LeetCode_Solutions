@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardhanthadala/DSA/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1894-merge-strings-alternately) |
 ## Stack
