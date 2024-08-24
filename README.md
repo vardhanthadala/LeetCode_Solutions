@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardhanthadala/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardhanthadala/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
