@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 ## Trie
 |  |
