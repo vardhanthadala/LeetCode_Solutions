@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/vardhanthadala/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/vardhanthadala/DSA/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/vardhanthadala/DSA/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/vardhanthadala/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
