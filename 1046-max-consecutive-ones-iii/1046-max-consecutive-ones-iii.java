@@ -5,7 +5,9 @@ class Solution {
         int countZero=0;
 
         for(int right=0;right<nums.length;right++){
-            if(nums[right]==0) countZero++;
+            if(nums[right]==0){
+                countZero++;
+            } 
 
           while(countZero>k){
             if(nums[left]==0) 
