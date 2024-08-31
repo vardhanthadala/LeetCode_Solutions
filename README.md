@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vardhanthadala/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/vardhanthadala/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/vardhanthadala/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/vardhanthadala/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vardhanthadala/DSA/tree/master/0792-binary-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vardhanthadala/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
