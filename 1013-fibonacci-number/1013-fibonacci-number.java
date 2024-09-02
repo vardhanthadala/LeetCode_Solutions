@@ -1,20 +1,30 @@
 class Solution {
-    public int fib(int n) { //recursion f(4)= 0 1 1 2 3
+    public int fib(int n) { 
+//--------------->recursion f(4)= 0 1 1 2 3<---------------------------
         // if(n<=1) return n;
 
         // return fib(n-1)+fib(n-2);
 
-               //memoization
+//--------------------------->memoization<-----------------------------
+//Tc-O(N)  Sc-O(N)
+        // int[]dp=new int[31];
+        // Arrays.fill(dp,-1);
 
-        int[]dp=new int[31];
-        Arrays.fill(dp,-1);
+        // if(n<=1)  return n; //base case
 
-        if(n<=1)  return n; //base case
+        // if(dp[n]!= -1) return dp[n];
 
-        if(dp[n]!= -1) return dp[n];
+        // return dp[n]= fib(n-1) + fib(n-2);
+//-------------------------->Tabulation<--------------------------
+//Tc-O(N)  Sc-O(N)
 
-        return dp[n]= fib(n-1) + fib(n-2);
-
-
+        if(n<=1) return n;
+            int[]dp=new int[31];
+            dp[0]=1;
+            dp[1]=1;
+            for(int i=2;i<=n;i++) {
+                dp[i]=dp[i-1]+dp[i-2];
+            }
+        return dp[n-1];
         }
 }
