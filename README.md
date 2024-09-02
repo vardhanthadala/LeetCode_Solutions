@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vardhanthadala/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/vardhanthadala/DSA/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
