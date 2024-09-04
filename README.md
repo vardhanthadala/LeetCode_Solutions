@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vardhanthadala/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vardhanthadala/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vardhanthadala/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
