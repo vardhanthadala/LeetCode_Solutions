@@ -12,3 +12,4 @@ class Solution {
         return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val); // traverse left and right
     }
 }
+//Space Complexity: O(h)
