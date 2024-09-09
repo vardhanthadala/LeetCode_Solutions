@@ -7,7 +7,7 @@ class Trie {
     private TrieNode root;
 
     public Trie() {
-        root = new TrieNode();
+     root = new TrieNode();
     }
 
     public void insert(String word) {
