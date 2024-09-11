@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/vardhanthadala/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
