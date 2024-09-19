@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanthadala/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vardhanthadala/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/vardhanthadala/DSA/tree/master/0682-baseball-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
 | ------- |
