@@ -1,23 +1,19 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length() != t.length()){//if both lengths are different ..
-            return false;
-        }
-         Map<Character, Integer> charCountMap = new HashMap<>();
+        int count[] = new int[26];
 
-         for(char c : s.toCharArray()){
-            charCountMap.put(c,charCountMap.getOrDefault(c,0)+1);
-         }
-         //if character in t not found in s
-         for(char c: t.toCharArray()){
-            if(!charCountMap.containsKey(c)){
+        for (char x : s.toCharArray()) {
+            count[x - 'a']++;
+        }
+        for (char x : t.toCharArray()) {
+            count[x - 'a']--;
+        }
+        for (int val : count) {
+            if (val != 0) {
                 return false;
             }
-             charCountMap.put(c, charCountMap.get(c) - 1);
-                if (charCountMap.get(c) < 0) {
-            return false;  // More occurrences of character in t than in s
-            }
-         }
+        }
         return true;
     }
+
 }
