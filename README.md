@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vardhanthadala/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/vardhanthadala/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1894-merge-strings-alternately) |
@@ -293,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/vardhanthadala/DSA/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
