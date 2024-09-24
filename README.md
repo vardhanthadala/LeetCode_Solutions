@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/vardhanthadala/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vardhanthadala/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/vardhanthadala/DSA/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
