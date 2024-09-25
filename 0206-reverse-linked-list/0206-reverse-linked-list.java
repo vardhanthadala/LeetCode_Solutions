@@ -1,16 +1,32 @@
 
 class Solution {
+    // iterative approach //
+    // time->O(n) space ->O(1)
+
+    // public ListNode reverseList(ListNode head) {
+    // ListNode prev = null;
+    // ListNode current = head;
+
+    // while (current != null) {
+    // ListNode nextNode = current.next;
+    // current.next = prev;
+    // prev = current;
+    // current = nextNode;
+    // }
+
+    // return prev;
+    // }
+
+    // Recursive approach
+    // time->O(n) space->O(n)
     public ListNode reverseList(ListNode head) {
-      ListNode prev = null; // The previous node, initially null
-        ListNode current = head; // The current node, initially the head of the list
-
-        while (current != null) {
-            ListNode nextNode = current.next; // Temporarily store the next node
-            current.next = prev; // Reverse the current node's pointer to the previous node
-            prev = current; // Move the previous node to the current node
-            current = nextNode; // Move to the next node in the original list
+        if (head == null || head.next == null) {
+            return head;
         }
-
-        return prev; // At the end, prev will be the new head of the reversed list
+        ListNode prev = null;
+        ListNode head2 = reverseList(head.next);
+        head.next.next = head;
+        head.next = prev;
+        return head2;
     }
 }
