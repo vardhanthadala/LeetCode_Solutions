@@ -1,15 +1,14 @@
 class Solution {
-    //  public int singleNonDuplicate(int[] nums) {
-    //     int res=0;
-    //     for(int num:nums){ 
-    //         res^=num;
-    //     }
-    //     return res;
+    // public int singleNonDuplicate(int[] nums) {
+    // int res=0;
+    // for(int num:nums){
+    // res^=num;
+    // }
+    // return res;
     // }
     public int singleNonDuplicate(int[] nums) {
         int n = nums.length;
 
-       
         if (n == 1)
             return nums[0];
         if (nums[0] != nums[1])
@@ -26,8 +25,8 @@ class Solution {
                 return nums[mid];
             }
 
-            // We are in the left:  //left =even,odd
-            if ((mid % 2 == 1 && nums[mid] == nums[mid -1])|| (mid % 2 == 0 && nums[mid] == nums[mid +1])) {
+            // We are in the left //left =even,odd
+            if ((mid % 2 == 1 && nums[mid] == nums[mid - 1]) || (mid % 2 == 0 && nums[mid] == nums[mid + 1])) {
                 // Eliminate the left half:
                 low = mid + 1;
             }
