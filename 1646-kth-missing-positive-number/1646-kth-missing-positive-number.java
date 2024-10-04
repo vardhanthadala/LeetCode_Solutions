@@ -6,7 +6,7 @@ class Solution {
         while(left<=right){
             int mid=(left+right)/2;
 
-            if(arr[mid]-(mid+1)<k){
+            if(arr[mid]-(mid+1)<k){  //element - index+1 = missing number
                 left=mid+1;
             }else{
                 right=mid-1;
