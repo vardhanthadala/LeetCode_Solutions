@@ -13,7 +13,7 @@ class Solution {
         int totalHours = 0;
         int n = piles.length;
         for (int i = 0; i < n; i++) {
-            totalHours += (piles[i] + k - 1) / k;// k is eating speed
+            totalHours += (piles[i] + k - 1) / k;// k is eating speed //(piles[i] + k - 1) / k used to get ceil number
         }
 
         return totalHours <= h;
