@@ -10,11 +10,13 @@ class Solution {
     }
 
     private boolean canEatWithinTime(int[] piles, int h, int k) {
-        int hours = 0;
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k;
+        int totalHours = 0;
+        int n = piles.length;
+        for (int i = 0; i < n; i++) {
+            totalHours += (piles[i] + k - 1) / k;// k is eating speed
         }
-        return hours <= h;
+
+        return totalHours <= h;
     }
 
     public int minEatingSpeed(int[] piles, int h) {
