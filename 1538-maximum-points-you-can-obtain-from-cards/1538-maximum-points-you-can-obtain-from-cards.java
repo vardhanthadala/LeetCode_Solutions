@@ -9,7 +9,7 @@ public class Solution {
         int n = cardPoints.length;
         int i = 0;
         while (i < k) {
-            sumOfK += cardPoints[n - 1 - i] - cardPoints[k - 1 - i];
+            sumOfK += cardPoints[n - 1 - i] - cardPoints[k - 1 - i];//taking card from begining and end
             maxSum = Math.max(maxSum, sumOfK);
             i++;
         }
