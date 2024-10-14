@@ -15,7 +15,7 @@ class Solution {
         }
         ListNode odd=head;  //Odd Idx
         ListNode even=head.next;//Even Idx
-        ListNode evenHead=even;
+        ListNode evenHead=even;//stores starting even idx for appending to odd at end
 
         while(even!=null&&even.next!=null){
             odd.next=odd.next.next;
