@@ -32,4 +32,3 @@ private Stack<Integer>output;
         return input.isEmpty()&&output.isEmpty();
     }
 }
-
