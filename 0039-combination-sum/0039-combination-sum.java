@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //time:O(2^N)*N space:O(N)
     private void findCombination(int idx, int[] arr, int target, List<List<Integer>> ans, ArrayList<Integer> ds) {
         if (idx == arr.length) { // if index reaches to the end of the recursion tree
             if (target == 0) { // if target is zero, we found a combination that equals to te target
