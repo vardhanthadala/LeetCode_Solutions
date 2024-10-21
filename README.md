@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vardhanthadala/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/vardhanthadala/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0054-spiral-matrix) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vardhanthadala/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vardhanthadala/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vardhanthadala/DSA/tree/master/0090-subsets-ii) |
 ## String Matching
