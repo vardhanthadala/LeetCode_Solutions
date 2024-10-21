@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //time::O(2^n*k) space:O(k*x)
     private void findCombination(int idx, int[] arr, int target, List<List<Integer>> ans, ArrayList<Integer> ds) {
         if (target == 0) { // If target is zero, we found a valid combination
             ans.add(new ArrayList<>(ds));
