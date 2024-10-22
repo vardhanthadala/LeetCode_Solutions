@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/vardhanthadala/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vardhanthadala/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vardhanthadala/DSA/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/vardhanthadala/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanthadala/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vardhanthadala/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vardhanthadala/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vardhanthadala/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vardhanthadala/DSA/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
