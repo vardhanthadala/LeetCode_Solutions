@@ -25,8 +25,7 @@ class Solution {
                 upperDiagonal[(n - 1) + row - col] = 1;
 
                 board[row][col] = 'Q';// place the queen at(row,col)
-                solve(col + 1, board, n, ans, leftRow, lowerDiagonal, upperDiagonal);// recursivelyy place the queens at
-                                                                                     // next cols
+                solve(col + 1, board, n, ans, leftRow, lowerDiagonal, upperDiagonal);//recursivelyy place the queens at next cols
 
                 // Backtracking --> removing the queens and unmark the position to try other
                 // possibilities
