@@ -1,9 +1,9 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>>res=new ArrayList<>();
-        List<String>path=new ArrayList<>();
-    PartitionHelper(0,s,path,res);
-    return res;
+        List<List<String>> res = new ArrayList<>();
+        List<String> path = new ArrayList<>();
+        PartitionHelper(0, s, path, res);
+        return res;
     }
 
     private void PartitionHelper(int idx, String s, List<String> path, List<List<String>> res) {
