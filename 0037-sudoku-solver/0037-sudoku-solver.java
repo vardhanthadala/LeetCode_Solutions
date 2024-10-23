@@ -34,7 +34,7 @@ class Solution {//time : O(9^(n^2))  space: O(1)
             if (board[row][i] == c) {//if element already present in the row then return false
                 return false;
             }
-            if (board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c){//for sub Matrix (3*3 Matrix) if the element is already present in the cell return false
+            if (board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c){//formula for sub Matrix (3*3 Matrix) if the element is already present in the cell return false
                 return false;
             }
         }
