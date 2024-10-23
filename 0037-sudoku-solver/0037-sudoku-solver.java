@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//time : O(9^(n^2))  space: O(1)
     public void solveSudoku(char[][] board) {
         solve(board);
     }
