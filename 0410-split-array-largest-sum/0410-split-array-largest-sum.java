@@ -27,7 +27,7 @@ class Solution {//same as allocate min no.of pages problem
         }
 
         
-        int low = Integer.MIN_VALUE; // Minimum possible max pages
+        int low = Integer.MIN_VALUE; // Minimum possible max pages(max number in nums array)
         int high = 0; // Maximum possible max pages (sum of all pages)
         
         for (int pages : nums) {
