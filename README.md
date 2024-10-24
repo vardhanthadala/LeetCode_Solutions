@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vardhanthadala/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vardhanthadala/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/vardhanthadala/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vardhanthadala/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vardhanthadala/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vardhanthadala/DSA/tree/master/0907-koko-eating-bananas) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/vardhanthadala/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/vardhanthadala/DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vardhanthadala/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vardhanthadala/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanthadala/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
