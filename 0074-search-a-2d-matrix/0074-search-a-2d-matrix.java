@@ -11,7 +11,7 @@ class Solution {
 
        while (low<=high){
         int mid=(low+high)/2;
-        int midVal=matrix[mid/cols][mid%cols];
+        int midVal=matrix[mid/cols][mid%cols]; //matrix(row,col) ,eg (1,1)
 
         if(midVal==target){
            return true; 
