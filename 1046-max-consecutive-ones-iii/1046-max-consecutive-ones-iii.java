@@ -9,7 +9,8 @@ class Solution {
                 countZero++;
             } 
 
-          while(countZero>k){
+          while(countZero>k){//If countZero > k (meaning there are more zeroes than we’re allowed to flip), we shrink the window from the left by moving the left pointer to the right.
+// We decrement countZero if nums[left] was zero since we’re removing a zero from the current window.
             if(nums[left]==0) 
             countZero--;
              left++;
