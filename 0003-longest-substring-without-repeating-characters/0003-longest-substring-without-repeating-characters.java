@@ -9,7 +9,7 @@ class Solution {
         for (int right = 0; right < s.length(); right++) {
             char currentChar = s.charAt(right);
 
-            if (map.containsKey(currentChar) && map.get(currentChar) >= left) {
+            if (map.containsKey(currentChar) && map.get(currentChar) >= left) {// (map.get(currentChar) >= left) ensure that left only moves forward when encountering a character that’s already part of the current substring (between left and right
 
                 left = map.get(currentChar) + 1;
             }
