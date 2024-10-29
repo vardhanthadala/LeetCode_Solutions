@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vardhanthadala/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vardhanthadala/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/vardhanthadala/DSA/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vardhanthadala/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/vardhanthadala/DSA/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -399,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vardhanthadala/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
