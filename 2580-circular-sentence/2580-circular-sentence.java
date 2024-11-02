@@ -7,6 +7,6 @@ class Solution {
                 }
             }
         }
-        return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);
+        return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);//first letter and last letter of sentence is same
     }
 }
