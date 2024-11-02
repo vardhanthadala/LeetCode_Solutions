@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2580-circular-sentence](https://github.com/vardhanthadala/DSA/tree/master/2580-circular-sentence) |
 ## Stack
 |  |
 | ------- |
