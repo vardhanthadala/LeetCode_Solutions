@@ -16,7 +16,9 @@ class GFG {
             Solution obj = new Solution();
             int ans = obj.countNodes(n);
             System.out.println(ans);
-        }
+        
+System.out.println("~");
+}
     }
 }
 
@@ -27,9 +29,9 @@ class GFG {
 
 class Solution {
     static int countNodes(int i) {
-        // code here
-       return 1<<(i-1);//equals 1*2^(i-1);
-        
-        
+       if(i==1){
+           return 1;
+       }
+       return 2 * countNodes(i-1);
     }
 }
