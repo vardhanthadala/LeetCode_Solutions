@@ -28,8 +28,8 @@ class Solution {
         int left = Math.max(helper(root.left), 0);// 0 because if we encounter -ve values consider it as 0
         int right = Math.max(helper(root.right), 0);
 
-        max = Math.max(max, root.val + left + right);
+        max = Math.max(max, root.val + left + right);// subtree Left and Right calculation
 
-        return root.val + Math.max(left, right);
+        return root.val + Math.max(left, right);// Total BT calculation
     }
 }
