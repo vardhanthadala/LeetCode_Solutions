@@ -32,3 +32,26 @@ class Solution {
 
     }
 }
+
+
+//-----------LEFT SIDE VIEW SOLUTION-----------------------//
+
+// class Solution {
+//     public List<Integer> leftSideView(TreeNode root) {
+//         List<Integer> res = new ArrayList<>();
+//         recursionRight(root, 0, res);
+//         return res;
+//     }
+
+//     private void recursionRight(TreeNode root, int level, List<Integer> res) {
+//         if (root == null) {
+//             return;
+//         }
+//         if (res.size() == level) { // first time visited a level ,so add it to result
+//             res.add(root.val);
+//         }
+//         recursionRight(root.left, level + 1, res);
+//         recursionRight(root.right, level + 1, res);
+
+//     }
+// }
