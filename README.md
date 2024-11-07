@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/vardhanthadala/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vardhanthadala/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vardhanthadala/DSA/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vardhanthadala/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vardhanthadala/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
 |  |
 | ------- |
