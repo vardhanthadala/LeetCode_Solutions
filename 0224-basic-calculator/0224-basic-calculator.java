@@ -26,12 +26,12 @@ class Solution {
             } else if (s.charAt(i) == '(') {
                 stack.push(ans);
                 stack.push(sign);
-                ans = 0;
+                ans = 0;// Reset `ans` for the expression inside the parentheses
                 sign = 1;
-            } else if (s.charAt(i) == ')') {
-                int prevSign = stack.pop();
-                ans = prevSign * ans;
-                int prevAns = stack.pop();
+            } else if (s.charAt(i) == ')') {// If the character is ')', end the current expression
+                int prevSign = stack.pop();// Retrieve the last `sign` before the parentheses
+                ans = prevSign * ans; // Apply the sign to the result of the inner expression
+                int prevAns = stack.pop();// Retrieve the last result stored before the parentheses
                 ans = ans + prevAns;
 
             }
@@ -40,11 +40,3 @@ class Solution {
         return ans;
     }
 }
-//Explaination : initially we  create ans,currNum,sign
-//index i is digit ,add to currNum
-//index i+1 is digit ? add to currNum by multiplying currNum*10+(i+1)
-//we add currNum to ans
-//if sign is + then we mutliply currNum with +1 or 1
-//else  we mutliply currNum with -1 
-//if i is ( then we push ans to stack then we push sign ,we makes ans as zero and sign as +1
-//else if i is ) then we pop out elements in stack and we do add to ans
