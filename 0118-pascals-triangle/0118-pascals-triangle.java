@@ -12,12 +12,12 @@ class Solution {
         for (int i = 1; i < numRows; i++) {
             List<Integer> prevRow = result.get(i - 1);
             List<Integer> currentRow = new ArrayList<>();
-            currentRow.add(1);
+            currentRow.add(1);// // The first element of each row is always 1
 
             for (int j = 1; j < i; j++) {
                 currentRow.add(prevRow.get(j - 1) + prevRow.get(j));
             }
-
+            // The last element of each row is always 1
             currentRow.add(1);
             result.add(currentRow);
         }
