@@ -1,22 +1,23 @@
 class Solution {
-    //brute force using linear search O(N^2)  O(1)
+    //brute force using linearsearch O(N^2) O(1)
 
-    //  public static boolean linearSearch(int []a, int num) {
-    //     int n = a.length; //size of array
+    // private static boolean linearSearch(int[] a, int num) {
+    //     int n = a.length; // size of array
     //     for (int i = 0; i < n; i++) {
     //         if (a[i] == num)
     //             return true;
     //     }
     //     return false;
     // }
-    //  public int longestConsecutive(int[] nums) {
-    //     int n = nums.length; 
+
+    // public int longestConsecutive(int[] nums) {
+    //     int n = nums.length;
     //     int longest = 1;
-       
+
     //     for (int i = 0; i < n; i++) {
     //         int x = nums[i];
     //         int cnt = 1;
-            
+
     //         while (linearSearch(nums, x + 1) == true) {
     //             x += 1;
     //             cnt += 1;
@@ -27,32 +28,32 @@ class Solution {
     //     return longest;
     // }
 
-    //optimal approach using HashSet  O(2*N)  O(N)
-   public int longestConsecutive(int[] nums) {
+    // optimal approach using HashSet O(2*N) O(N)
+
+    public int longestConsecutive(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
         }
 
         HashSet<Integer> numSet = new HashSet<>();
         for (int num : nums) {
-            numSet.add(num);    //add elements to numSet
+            numSet.add(num); // add elements to numSet
         }
 
         int longestStreak = 0;
 
         for (int num : numSet) {
-            
-            if (!numSet.contains(num - 1)) {  
-              
+
+            if (!numSet.contains(num - 1)) {
+
                 int currentStreak = 1;
 
                 while (numSet.contains(num + 1)) {
-                  num++;
+                    num++;
                     currentStreak++;
                 }
 
-               
-            longestStreak = Math.max(longestStreak, currentStreak);
+                longestStreak = Math.max(longestStreak, currentStreak);
             }
         }
 
