@@ -14,9 +14,10 @@
  * }
  */
 class Solution {
-    // //1.Recursion O(N) O(N)
+    // 1.Recursion O(N) O(N)
     //// if prev=null assigned in the method then it causes it to reset to null on
     // each call
+
     // TreeNode prev=null;
     // public void flatten(TreeNode root) {
     // if(root==null){
@@ -29,6 +30,8 @@ class Solution {
     // root.left=null;
     // prev=root;
     // }
+
+    //Iterative approach O(N)  O(1)
     public void flatten(TreeNode root) {
         TreeNode curr = root;
 
