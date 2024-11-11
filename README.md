@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vardhanthadala/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/vardhanthadala/DSA/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vardhanthadala/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
 | ------- |
