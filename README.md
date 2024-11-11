@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/vardhanthadala/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vardhanthadala/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanthadala/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanthadala/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/vardhanthadala/DSA/tree/master/1646-kth-missing-positive-number) |
+| [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/vardhanthadala/DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vardhanthadala/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -480,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
+| [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
