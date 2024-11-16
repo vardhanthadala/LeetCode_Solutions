@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/vardhanthadala/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vardhanthadala/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vardhanthadala/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vardhanthadala/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vardhanthadala/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vardhanthadala/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
