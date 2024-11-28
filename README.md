@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vardhanthadala/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vardhanthadala/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
 ## Enumeration
 |  |
 | ------- |
@@ -541,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/vardhanthadala/DSA/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
