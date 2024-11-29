@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vardhanthadala/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanthadala/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vardhanthadala/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanthadala/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vardhanthadala/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanthadala/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/vardhanthadala/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vardhanthadala/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
