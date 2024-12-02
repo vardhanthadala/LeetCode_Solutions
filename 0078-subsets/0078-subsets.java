@@ -1,22 +1,23 @@
 class Solution { // 2 solns (1.recursion,2.bit manipulation)
+   
     List<List<Integer>> ans=new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
-        int n = 0;
+        int idx = 0;
         List<Integer> al = new ArrayList<>(); 
-        allcases(nums, ans, n, al);
+        allcases(nums, ans, idx, al);
         return ans;
     }
 
-    public void allcases(int[] nums, List<List<Integer>> ans, int n, List<Integer> al) {
-        if (n == nums.length) {
+    public void allcases(int[] nums, List<List<Integer>> ans, int idx, List<Integer> al) {
+        if (idx == nums.length) {
             ans.add(new ArrayList<>(al));
             return;
         }
-        al.add(nums[n]);
-        allcases(nums, ans, n + 1, al);
+        al.add(nums[idx]);
+        allcases(nums, ans, idx + 1, al);
         al.remove(al.size() - 1);
-        allcases(nums, ans, n + 1, al);
+        allcases(nums, ans, idx + 1, al);
         return;
     }
 }
