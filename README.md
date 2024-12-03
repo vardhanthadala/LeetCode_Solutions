@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/vardhanthadala/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vardhanthadala/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/vardhanthadala/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/vardhanthadala/DSA/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/vardhanthadala/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vardhanthadala/DSA/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/vardhanthadala/DSA/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
 | ------- |
