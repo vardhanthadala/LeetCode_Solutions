@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vardhanthadala/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vardhanthadala/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/vardhanthadala/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardhanthadala/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vardhanthadala/DSA/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/vardhanthadala/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vardhanthadala/DSA/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/vardhanthadala/DSA/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/vardhanthadala/DSA/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/vardhanthadala/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vardhanthadala/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vardhanthadala/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vardhanthadala/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vardhanthadala/DSA/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/vardhanthadala/DSA/tree/master/0282-expression-add-operators) |
 ## String Matching
 |  |
 | ------- |
