@@ -1,6 +1,5 @@
-import java.util.Stack;
-
 class Solution {
+    //prereq ->https://leetcode.com/problems/sum-of-subarray-ranges/description/
     public static int largestRectangleArea(int[] heights) {
         Stack<Integer> s = new Stack<>();
         int maxArea = 0;
@@ -21,9 +20,9 @@ class Solution {
             s.push(i);
         }
         
-        s.clear(); // Clear the stack for the next loop
+        s.clear(); 
         
-        for (int i = heights.length - 1; i >= 0; i--) {
+        for (int i = heights.length - 1; i >= 0; i--) {  
             while (!s.isEmpty() && heights[s.peek()] >= heights[i]) {
                 s.pop();
             }
