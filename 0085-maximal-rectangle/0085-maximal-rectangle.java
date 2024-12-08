@@ -34,7 +34,7 @@ class Solution {
         int[] nsr = new int[n]; 
 
       
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {//next smaller element
             while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
                 stack.pop();
             }
@@ -45,7 +45,7 @@ class Solution {
         stack.clear(); 
 
         
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = n - 1; i >= 0; i--) { //nezt greater
             while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
                 stack.pop();
             }
