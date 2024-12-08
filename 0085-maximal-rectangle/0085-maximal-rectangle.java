@@ -1,6 +1,6 @@
 class Solution {
     // prereq->https://leetcode.com/problems/largest-rectangle-in-histogram/
-     public int maximalRectangle(char[][] matrix) {
+     public int maximalRectangle(char[][] matrix) {   //T : O(M*N) +O(N+2M)  S:O(M*N)+O(N)
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return 0;
         }
