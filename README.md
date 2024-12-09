@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vardhanthadala/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vardhanthadala/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vardhanthadala/DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/vardhanthadala/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vardhanthadala/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanthadala/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vardhanthadala/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vardhanthadala/DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/vardhanthadala/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanthadala/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vardhanthadala/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/vardhanthadala/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanthadala/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vardhanthadala/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/vardhanthadala/DSA/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -596,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vardhanthadala/DSA/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vardhanthadala/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
