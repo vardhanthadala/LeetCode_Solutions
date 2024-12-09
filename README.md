@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vardhanthadala/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vardhanthadala/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/vardhanthadala/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vardhanthadala/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vardhanthadala/DSA/tree/master/0205-isomorphic-strings) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vardhanthadala/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vardhanthadala/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vardhanthadala/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanthadala/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vardhanthadala/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/vardhanthadala/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vardhanthadala/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0328-odd-even-linked-list) |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vardhanthadala/DSA/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vardhanthadala/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
