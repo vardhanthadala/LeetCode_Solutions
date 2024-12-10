@@ -69,10 +69,12 @@ class MinHeap {
     //Function to insert a value in Heap.
     void insertKey(int k) 
     {
-        if(heap_size==capacity) return;
+        if(heap_size==capacity){ 
+            return;
+        }
         
         heap_size++;
-        decreaseKey(heap_size-1,k);
+        decreaseKey(heap_size-1,k); //insert k  at heap_size-1
     }
 
     //Function to delete a key at ith index.
@@ -81,8 +83,8 @@ class MinHeap {
         // Your code here.
         if(i>=heap_size) return;
         
-        decreaseKey(i,Integer.MIN_VALUE);
-        extractMin();
+        decreaseKey(i,Integer.MIN_VALUE); // Step 1: Decrease the key to a very small value
+        extractMin();// Step 2: Extract the minimum (removes the root)
     }
 
     //Function to change value at ith index and store that value at first index.
