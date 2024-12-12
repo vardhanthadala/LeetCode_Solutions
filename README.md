@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vardhanthadala/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhanthadala/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/vardhanthadala/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0075-sort-colors) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vardhanthadala/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vardhanthadala/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhanthadala/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vardhanthadala/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vardhanthadala/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vardhanthadala/DSA/tree/master/0076-minimum-window-substring) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vardhanthadala/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/vardhanthadala/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/vardhanthadala/DSA/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
