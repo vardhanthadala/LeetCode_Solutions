@@ -15,7 +15,9 @@ class GFG {
             Solution obj = new Solution();
             int res = obj.findMatching(text, pat);
             System.out.println(res);
-        }
+        
+System.out.println("~");
+}
     }
 }
 // } Driver Code Ends
@@ -25,6 +27,7 @@ class GFG {
 
 class Solution {
     public int findMatching(String text, String pat) {
-       return text.indexOf(pat);
+        int idx=text.indexOf(pat);
+        return idx;
     }
 }
