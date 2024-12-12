@@ -1,15 +1,14 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        int repeat = (b.length() - 1) / a.length() + 1;  
-        StringBuilder sb = new StringBuilder(a.repeat(repeat));  
+int minRepeats=(int) Math.ceil((double) b.length() / a.length());        StringBuilder sb = new StringBuilder(a.repeat(minRepeats));  
         
         if (sb.toString().contains(b)) {
-            return repeat;
+            return minRepeats;
         }
         
         sb.append(a);
         if (sb.toString().contains(b)) {
-            return repeat + 1;
+            return minRepeats + 1;
         }
         
         return -1; 
