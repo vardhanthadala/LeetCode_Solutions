@@ -1,4 +1,4 @@
-class Solution {   //O(M*N)     O(1)
+class Solution { // O(M*N) O(1)
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
 
@@ -18,27 +18,26 @@ class Solution {   //O(M*N)     O(1)
             }
             top++;
 
-          //right
+            // right
             for (int i = top; i <= bottom; i++) {
                 result.add(matrix[i][right]);
             }
             right--;
 
-            if (top <= bottom) {            
-                    //bottom
-         for (int j = right; j >= left; j--) {
+            if (top <= bottom) {
+                // bottom
+                for (int j = right; j >= left; j--) {
                     result.add(matrix[bottom][j]);
                 }
                 bottom--;
             }
 
-            
-      if (left <= right) {
-           //left
+            if (left <= right) {
+                // left
                 for (int i = bottom; i >= top; i--) {
                     result.add(matrix[i][left]);
                 }
-              left++;
+                left++;
             }
         }
 
