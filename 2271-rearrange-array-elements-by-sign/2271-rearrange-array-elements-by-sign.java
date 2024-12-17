@@ -1,4 +1,4 @@
-class Solution {  //note //O(N) O(n)
+class Solution {   //O(N) O(N)
     public int[] rearrangeArray(int[] nums) {
         ArrayList<Integer>pos=new ArrayList<>();
         ArrayList<Integer>neg=new ArrayList<>();
