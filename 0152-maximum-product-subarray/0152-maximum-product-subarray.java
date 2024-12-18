@@ -1,23 +1,22 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxProduct=nums[0];
-        int minProduct=nums[0];
-        int result=nums[0];
-        if(nums==null||nums.length==0){
-            return 0;
+        // odd negatives product --> negative val
+        // even negatives product --> positive val
+        // if it has zeros --> answer will be zero
+        int prefix = 1;
+        int suffix = 1;
+        int ans = Integer.MIN_VALUE;
+        int n = nums.length;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (prefix == 0)prefix = 1; // if product of prefix is 0,then assign prefix with 1 for futher multiplication
+            if (suffix == 0)suffix = 1;// if product of suffix is 0,then assign suffix with 1 for futher multiplication
+
+            prefix = prefix * nums[i];
+            suffix = suffix * nums[n - i - 1];
+
+            ans = Math.max(ans, Math.max(prefix, suffix));
         }
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]<0){
-                //swap if we encouunter a negative num
-                int temp=maxProduct;
-                maxProduct=minProduct;
-                minProduct=temp;
-            }
-            maxProduct=Math.max(nums[i],maxProduct*nums[i]);
-            minProduct=Math.min(nums[i],minProduct*nums[i]);
-        
-        result=Math.max(result,maxProduct);
+        return ans;
     }
-    return result;
-  }
 }
