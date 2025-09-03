@@ -3,23 +3,16 @@ class Solution {
     //      return haystack.indexOf(needle);
 
     // }
-    public static int strStr(String haystack, String needle){
-        int n=haystack.length();
-        int m=needle.length();
-
-        if(m>n){
+    public int strStr(String haystack, String needle) {
+        int haylength = haystack.length();
+        int needlelength = needle.length();
+        if (haylength < needlelength)
             return -1;
-        }
-        if(m==1  && n==1){
-            return 0;
-        }
-
-        for(int i=0;i<=n-m;i++){
-            int j=0;
-            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+        for (int i = 0; i <= haylength - needlelength; i++) {
+            int j = 0;
+            while (j < needle.length() && haystack.charAt(i + j) == needle.charAt(j))
                 j++;
-            }
-            if(j==m){
+            if (j == needle.length()) {
                 return i;
             }
         }
