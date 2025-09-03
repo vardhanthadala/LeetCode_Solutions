@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vardhanthadala/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vardhanthadala/DSA/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardhanthadala/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanthadala/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vardhanthadala/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vardhanthadala/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vardhanthadala/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/vardhanthadala/DSA/tree/master/0410-split-array-largest-sum) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vardhanthadala/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vardhanthadala/DSA/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/vardhanthadala/DSA/tree/master/0948-sort-an-array) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vardhanthadala/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vardhanthadala/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
