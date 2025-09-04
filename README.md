@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vardhanthadala/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanthadala/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vardhanthadala/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vardhanthadala/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vardhanthadala/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardhanthadala/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vardhanthadala/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vardhanthadala/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanthadala/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vardhanthadala/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vardhanthadala/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vardhanthadala/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
 |  |
 | ------- |
