@@ -1,26 +1,26 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
        int n=nums.length;
-        int cnt1 = 0, cnt2 = 0; // counts
-        int el1 = Integer.MIN_VALUE; // element 1
-        int el2 = Integer.MIN_VALUE; // element 2
+        int cnt1 = 0, cnt2 = 0; 
+        int el1 = Integer.MIN_VALUE; 
+        int el2 = Integer.MIN_VALUE; 
 
-        // applying the Extended Boyer Moore's Voting Algorithm:
+        // Extended Boyer Moore's Voting Algorithm
         for (int i = 0; i < n; i++) {
-            if (cnt1 == 0 && el2 != nums[i]) {
+            if (cnt1 == 0 && el2 != nums[i]) {//If cnt1 is zero and current element ≠ el2, set new candidate el1
                 cnt1 = 1;
                 el1 = nums[i];
-            } else if (cnt2 == 0 && el1 != nums[i]) {
+            } else if (cnt2 == 0 && el1 != nums[i]) {//If cnt2 is zero and current element ≠ el1, set new candidate el2.
                 cnt2 = 1;
                 el2 = nums[i];
-            } else if (nums[i] == el1) cnt1++;
-            else if (nums[i] == el2) cnt2++;
+             } else if (nums[i] == el1) cnt1++;
+               else if (nums[i] == el2) cnt2++;
             else {
                 cnt1--; cnt2--;
             }
         }
 
-        List<Integer> ls = new ArrayList<>(); // list of answers
+        List<Integer> ls = new ArrayList<>();
 
         // el1 and el2 are the majority elements:
         cnt1 = 0; cnt2 = 0;
