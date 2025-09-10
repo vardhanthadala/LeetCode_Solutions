@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vardhanthadala/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vardhanthadala/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanthadala/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanthadala/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vardhanthadala/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vardhanthadala/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vardhanthadala/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vardhanthadala/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vardhanthadala/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/vardhanthadala/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/vardhanthadala/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanthadala/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0206-reverse-linked-list) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vardhanthadala/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vardhanthadala/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/vardhanthadala/DSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vardhanthadala/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vardhanthadala/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
