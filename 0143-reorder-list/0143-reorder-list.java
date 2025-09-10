@@ -25,13 +25,13 @@ class Solution {
 
         slow.next = null;// break the list into two halves
 
-        ListNode node = null;
+        ListNode prev = null;
 
         while (second != null) {
             ListNode temp = second.next;
 
-            second.next = node;
-            node = second;
+            second.next = prev;
+            prev = second;
             second = temp;
 
         }
@@ -39,7 +39,7 @@ class Solution {
 
         //Step 3 : Merge the two halves
         ListNode first = head;
-        second = node;
+        second = prev;
 
         while (second != null) {
             ListNode temp1 = first.next;
@@ -47,7 +47,7 @@ class Solution {
            
             first.next = second;//connect first -> second
             second.next = temp1;//connect second -> temp1
-            
+
             //move both pointers forward
             first = temp1;
             second = temp2;
