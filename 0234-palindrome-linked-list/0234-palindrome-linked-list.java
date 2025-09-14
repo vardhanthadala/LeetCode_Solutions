@@ -17,7 +17,7 @@ class Solution {
             fast = fast.next.next;
         }
         ListNode rev = reverseList(slow.next); // reverse second list
-        slow.next = null;
+        slow.next = null; // remove connection of first half
         while(rev != null) {
             if(head.val != rev.val) {
                 return false;
