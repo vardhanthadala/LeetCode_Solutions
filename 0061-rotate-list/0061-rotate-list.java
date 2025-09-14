@@ -18,37 +18,32 @@ class Solution {
         ListNode tail = head;
         int length = 1;
 
-        // calculating the length for making a circular loop
+        // 1.Find length
         while (tail.next != null) {
             tail = tail.next;
             length++;
         }
 
-        if (k % length == 0) { // multiples of k gives same LL
+        if (k % length == 0) { // multiples of k gives same LL(Handling full rotations)
             return head;
         }
+
+        //2.Connect tail to head it becomes circular list
+        tail.next = head;
+        //3.Find new head after rotation
         k = k % length;
+        int stepsToNewHead = length - k; 
 
-        tail.next = head; //connecting tail to head for adding nodes infront of head
-        ListNode newLastNode = findNthNode(head, length - k);
-        head = newLastNode.next;//new head
-        newLastNode.next = null;
-
-        return head;
-
-    }
-
-    private ListNode findNthNode(ListNode temp, int k) {
-
-        int count = 1;
-        while (temp != null) {
-            if (count == k) {
-                break;
-            }
-            count++;
-
-            temp = temp.next;
+        ListNode newTail = tail;
+        for (int i = 0; i < stepsToNewHead; i++) { //iterate till len-k
+            newTail = newTail.next;
         }
-        return temp;
+
+        // 4. Break the circle
+        ListNode newHead = newTail.next;
+        newTail.next = null;
+
+        return newHead;
     }
+
 }
