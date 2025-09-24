@@ -42,11 +42,11 @@ public class Solution {
     // Graph approach
 
     public void dfs(int i, int j, char[][] grid) {
-        if (i < 0 || j < 0 || i >= grid.length || j >= grid[0].length || grid[i][j] != '1')
+        if (i < 0 || j < 0 || i >= grid.length || j >= grid[0].length || grid[i][j] != '1'){ //grid[i][j] != '1' --> not land
             return;
+        }
 
-        // mark visited
-        grid[i][j] = '0';
+        grid[i][j] = '0';//..turning land into water = sinking the island, ensuring we only count it once.
 
         dfs(i + 1, j, grid);
         dfs(i - 1, j, grid);
