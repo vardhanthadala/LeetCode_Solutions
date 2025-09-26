@@ -8,10 +8,9 @@ class Solution {
         long temp = x;
 
         while (temp != 0) {
-            int digit = (int) (temp % 10);
-             temp /= 10;
-            reversed = reversed * 10 + digit;
-           // temp /= 10;
+            int digit = (int) (temp % 10);//get last digit
+            reversed = reversed * 10 + digit;// build reversed number
+           temp /= 10;//remove last digit
         }
 
         return (reversed == x);
