@@ -1,45 +1,41 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        if (nums == null || nums.length < 2) {
+        if (nums.length == 1) {
             return nums;
         }
-        heapSort(nums);
-        return nums;
+        int mid = nums.length / 2;
+        int[] left = sortArray(Arrays.copyOfRange(nums, 0, mid));
+        int[] right = sortArray(Arrays.copyOfRange(nums, mid, nums.length));
+        return merge(left, right);
     }
 
-    private void heapSort(int[] nums) {
-        for (int i = nums.length / 2; i >= 0; i--) {
-            heapify(nums, i, nums.length - 1);
-        }
-        for (int i = 0; i < nums.length; i++) {
-            swap(nums, 0, nums.length - 1 - i);
-            heapify(nums, 0, nums.length - 2 - i);
-        }
-    }
+    public int[] merge(int[] left, int[] right) {
+        int[] mix = new int[left.length + right.length];
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        while (i < left.length && j < right.length) {
+            if (left[i] < right[j]) {
+                mix[k++] = left[i++];
 
-    private void heapify(int[] nums, int start, int end) {
-        while (start <= end) {
-            int l = 2 * start + 1;
-            int r = 2 * start + 2;
-            int largest = start;
-            if (l <= end && nums[l] > nums[largest]) {
-                largest = l;
+            } else {
+                mix[k++] = right[j++];
+
             }
-            if (r <= end && nums[r] > nums[largest]) {
-                largest = r;
-            }
-            if (largest == start) {
-                return;
-            }
-            swap(nums, start, largest);
-            start = largest;
+
         }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
-
+        //if any element remain to check that means its already bigger than the rest
+        //copy them 
+        while (i < left.length) {
+            mix[k] = left[i];
+            i++;
+            k++;
+        }
+        while (j < right.length) {
+            mix[k] = right[j];
+            j++;
+            k++;
+        }
+        return mix;
     }
 }
