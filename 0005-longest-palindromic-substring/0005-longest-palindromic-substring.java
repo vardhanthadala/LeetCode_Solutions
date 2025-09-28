@@ -13,12 +13,12 @@ class Solution {
             int len2 = expandAroundCenter(s, i, i + 1);
             
             
-            int len = Math.max(len1, len2);
+            int max = Math.max(len1, len2);
             
         
-            if (len > end - start) { //end - start is the current longest palindrome length - 1 
-                start = i - (len - 1) / 2; //starting index of palindrome
-                end = i + len / 2;//ending index of palindrome
+            if (max > end - start) { //Compare the new palindrome length len with the current longest (end - start) ,If the new one is longer → update start and end to point to the new palindrome.
+                start = i - (max - 1) / 2; //starting index of palindrome
+                end = i + max / 2;//ending index of palindrome
             }
         }
         
