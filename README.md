@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vardhanthadala/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vardhanthadala/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vardhanthadala/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vardhanthadala/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vardhanthadala/DSA/tree/master/0118-pascals-triangle) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vardhanthadala/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vardhanthadala/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/vardhanthadala/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vardhanthadala/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vardhanthadala/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -708,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
