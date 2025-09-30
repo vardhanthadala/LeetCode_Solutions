@@ -15,10 +15,10 @@
 class Solution {
     public int firstUniqChar(String s) {
         int[] freq = new int[26];
-        for (char c : s.toCharArray()) {
+        for (char c : s.toCharArray()) { //count frequency
             freq[c - 'a']++;
         }
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {// find first unique  character
             if (freq[s.charAt(i) - 'a'] == 1) {
                 return i;
             }
