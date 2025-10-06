@@ -8,9 +8,9 @@ class Solution { // 2 solns (1.recursion,2.bit manipulation)
     //         return ans;
     //     }
 
-    //     public void allcases(int[] nums, List<List<Integer>> ans, int n, List<Integer> al) { 
+    //     public void allcases(int[] nums, List<List<Integer>> ans, int n, List<Integer> al) {
     //         if (n == nums.length) {
-    //             ans.add(new ArrayList<>(al));
+    //             ans.add(new ArrayList<>(al)); //al is current subset is building
     //             return;
     //         }
     //         al.add(nums[n]);                     // include current element
