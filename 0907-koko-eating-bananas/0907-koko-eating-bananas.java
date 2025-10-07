@@ -28,9 +28,9 @@ class Solution {
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canEatWithinTime(piles, h, mid)) {
-                right = mid;
+                right = mid;// Try smaller speed
             } else {
-                left = mid + 1;
+                left = mid + 1;//Need higher sppeed
             }
         }
 
