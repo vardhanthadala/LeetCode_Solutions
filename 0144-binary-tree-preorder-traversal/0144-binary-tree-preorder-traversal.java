@@ -37,10 +37,10 @@ class Solution {
         stack.push(root);
 
         while (!stack.isEmpty()) {
-            root = stack.pop();
-            preOrder.add(root.val);
+            root = stack.pop();//pop current node
+            preOrder.add(root.val);//then process it (root first)
 
-            if (root.right != null) {
+            if (root.right != null) { 
                 stack.push(root.right);
             }
             if (root.left != null) {
