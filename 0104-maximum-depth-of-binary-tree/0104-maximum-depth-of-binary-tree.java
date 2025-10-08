@@ -17,7 +17,7 @@ class Solution {
 
         while (!q.isEmpty()) {
             int size = q.size();
-            for (int i = 0; i < size; i++) {
+            for (int i = 0; i < size; i++) {//if we dont use for loop level++ would increment for every node, not for every level.
                 TreeNode node = q.poll();
                 // Add left child if exists
                 if (node.left != null) {
