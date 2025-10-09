@@ -29,8 +29,9 @@ class Solution {
 
             // If it's a leaf node, check if sum matches
             if (curr.left == null && curr.right == null) {
-                if (currSum == targetSum)
+                if (currSum == targetSum) {
                     return true;
+                }
             }
 
             // If left child exists, add it with updated sum
