@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vardhanthadala/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/vardhanthadala/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vardhanthadala/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vardhanthadala/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/vardhanthadala/DSA/tree/master/0801-is-graph-bipartite) |
+| [0904-leaf-similar-trees](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/vardhanthadala/DSA/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vardhanthadala/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vardhanthadala/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/vardhanthadala/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/vardhanthadala/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Memoization
 |  |
