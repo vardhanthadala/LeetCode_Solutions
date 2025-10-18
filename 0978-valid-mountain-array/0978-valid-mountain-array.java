@@ -6,13 +6,16 @@ class Solution {
         if (n < 3) {
             return false;
         }
-        while (i+1 < n && arr[i] < arr[i + 1]) {
+        // Step 1: climb up
+        while (i + 1 < n && arr[i] < arr[i + 1]) {
             i++;
         }
+        // Step 2: climb down
         while (j > 0 && arr[j - 1] > arr[j]) {
             j--;
         }
+        // Step 3: check if both meet at same peak and peak is not at edges
 
-        return i > 0 && i == j && j < n - 1;//The peak is not at the start &&  The peak is not at the end && The increasing and decreasing parts meet at the same peak index --> if this conditions satisfied its returns true else false
+        return i > 0 && i == j && j < n - 1;
     }
 }
