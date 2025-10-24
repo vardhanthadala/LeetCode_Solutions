@@ -1,16 +1,18 @@
 class Solution {
+    // Extended Boyer Moore's Voting Algorithm
     public List<Integer> majorityElement(int[] nums) {
        int n=nums.length;
         int cnt1 = 0, cnt2 = 0; 
         int el1 = Integer.MIN_VALUE; 
         int el2 = Integer.MIN_VALUE; 
 
-        // Extended Boyer Moore's Voting Algorithm
+        
+        //Step 1 : first pass only finds candidates, not guaranteed to be actual majority elements.
         for (int i = 0; i < n; i++) {
-            if (cnt1 == 0 && el2 != nums[i]) {//If cnt1 is zero and current element ≠ el2, set new candidate el1
+            if (cnt1 == 0 && el2 != nums[i]) {
                 cnt1 = 1;
                 el1 = nums[i];
-            } else if (cnt2 == 0 && el1 != nums[i]) {//If cnt2 is zero and current element ≠ el1, set new candidate el2.
+            } else if (cnt2 == 0 && el1 != nums[i]) {
                 cnt2 = 1;
                 el2 = nums[i];
              } else if (nums[i] == el1) cnt1++;
@@ -22,7 +24,7 @@ class Solution {
 
         List<Integer> ls = new ArrayList<>();
 
-        // el1 and el2 are the majority elements:
+        //Step 2: Reset counts → verify actual frequency
         cnt1 = 0; cnt2 = 0;
         for (int i = 0; i < n; i++) {
             if (nums[i] == el1) cnt1++;
